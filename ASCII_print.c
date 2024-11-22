@@ -1,19 +1,14 @@
-// printing ASCII values
+#include <stdio.h>
 
-#include<stdio.h>
-int main()
+int main() {
+    char ch;
 
-{
+    // Accepting a character from the user
+    printf("Enter a character: ");
+    scanf("%c", &ch);
 
-  char ch;
+    // Printing the character and its ASCII value
+    printf("The ASCII value of '%c' is %d.\n",ch);
 
-  printf("enter a single character \n :);
-  scanf("%c", &ch);
-
-  printf("ASCII value of the chaacter entered is %d", ch);
-
-
-
-
-
+    return 0;
 }

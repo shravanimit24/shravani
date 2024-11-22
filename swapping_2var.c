@@ -10,7 +10,7 @@ int main()
     scanf("%d",&a);
 
 
-    printf("\n genter value two");
+    printf("\n enter value two");
     scanf("%d",&b);
 
      printf("\n values before swapping are %d %d", a,b);

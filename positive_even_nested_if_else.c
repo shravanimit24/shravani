@@ -5,6 +5,7 @@
 int main()
 {
   int a ;
+  //accepting value
   printf("enter a number");
   scanf("%d",&a);
 

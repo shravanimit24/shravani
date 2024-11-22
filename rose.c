@@ -10,10 +10,7 @@ int main() {
     printf("     **     \n");
 
     // Print a romantic message
-    printf("\nYou have a heart of gold!\n");
-    printf("Every moment with you is precious and aeyyyy goisedssss.\n");
-    printf("You make my life complete and my heart full.\n");
-    printf("ur my pookiedieeeeeeeeeeee");
+    printf("i love you cutieeeeee");
 
     return 0;
 }
